@@ -3,7 +3,7 @@
 ## OVERVIEW of the achieved Screens
 
 <p float="center">
-    <img src="iosScreenShot.png" width="1000" title="Main">
+    <img src="assets/images/iosScreenShot.png" width="1000" title="Main">
 </p>
 ## Main libraries used
 
